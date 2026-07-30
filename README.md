@@ -52,7 +52,7 @@ pip install pillow reportlab
 3. Launch the ERP suite by running `App.py`:
 
 ```bash
-python App.py
+python3 App.py
 ```
 
 ---
